@@ -8,7 +8,7 @@ from datetime import datetime
 # Sozlamalar
 API_TOKEN = '8769316813:AAGG_qt2faKYjXq8LxuiQhkBz56fsc6We3s'
 ADMIN_ID = 7740552653
-GROUP_ID = -100123456789  # @sherbilakmfy guruhi ID'sini kiriting
+GROUP_ID = -1001549017357  # @sherbilakmfy guruhi ID'sini kiriting
 TARGET_INITIATIVE_ID = "53"
 
 bot = Bot(token=API_TOKEN)
